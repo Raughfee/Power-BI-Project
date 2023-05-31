@@ -1,0 +1,2 @@
+# Power-BI-Project
+This project is about Hardware sales dashboard making. Project's Data were Imported from MY SQL database. Data were cleaned by Power Query in normalized form. 10+ DAX measures have been used to visualize insights. Overall, it's a dynamic Power BI dashboard with KPI, Filters, Slicers, Charts, Dax allowing stakeholders to gain valuable insights from your hardware sales data, make informed business decisions, and drive growth and profitability. 
